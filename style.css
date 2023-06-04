@@ -1,0 +1,35 @@
+body{
+    
+    font-family: urbanist;
+}
+
+nav{
+    padding-top: 40px;
+}
+
+h3{
+    font-size: 2em;
+}
+
+.btnn{
+    padding-left: 24px ;
+    padding-right: 24px ;
+    padding-top: 12px ;
+    padding-bottom: 12px ;
+    font-size: 12px;
+    background-color: #0E606E;
+    color: #fff;
+    border-radius: 32px;
+}
+
+.hero-title{
+    font-weight:bold ;
+    font-size: 60px;
+    padding-bottom: 16px;
+}
+
+.hero-subtitle{
+    font-size: 28px;
+    padding-bottom: 32px;
+    
+}
